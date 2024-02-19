@@ -1,0 +1,7 @@
+C:\Users\Mikolaj_2\Desktop\4semestr\Programowanie C# REST cwiczenia\NetClassicWCFService\Service1\bin\Service1.dll.config
+C:\Users\Mikolaj_2\Desktop\4semestr\Programowanie C# REST cwiczenia\NetClassicWCFService\Service1\bin\Service1.dll
+C:\Users\Mikolaj_2\Desktop\4semestr\Programowanie C# REST cwiczenia\NetClassicWCFService\Service1\bin\Service1.pdb
+C:\Users\Mikolaj_2\Desktop\4semestr\Programowanie C# REST cwiczenia\NetClassicWCFService\Service1\obj\Debug\Service1.csproj.AssemblyReference.cache
+C:\Users\Mikolaj_2\Desktop\4semestr\Programowanie C# REST cwiczenia\NetClassicWCFService\Service1\obj\Debug\Service1.csproj.CoreCompileInputs.cache
+C:\Users\Mikolaj_2\Desktop\4semestr\Programowanie C# REST cwiczenia\NetClassicWCFService\Service1\obj\Debug\Service1.dll
+C:\Users\Mikolaj_2\Desktop\4semestr\Programowanie C# REST cwiczenia\NetClassicWCFService\Service1\obj\Debug\Service1.pdb
